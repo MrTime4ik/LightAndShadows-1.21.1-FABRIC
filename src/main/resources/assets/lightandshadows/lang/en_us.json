@@ -1,0 +1,50 @@
+{
+
+  "item.lightandshadows.astral_ingot" : "Astral ingot [WIP]",
+  "item.lightandshadows.lightning_stick" : "Lightning stick",
+  "item.lightandshadows.lux" : "Lux [WIP]",
+  "item.lightandshadows.minoan_sphere" : "Minoan Sphere [WIP]",
+  "item.lightandshadows.honey_apple" : "Honney apple",
+  "item.lightandshadows.flame_netherite_shovel" : "Flame netherite pickaxe",
+  "item.lightandshadows.flame_netherite_pickaxe" : "Flame netherite shovel",
+  "item.lightandshadows.flame_netherite_axe" : "Flame netherite axe",
+  "item.lightandshadows.flame_netherite_sword" : "Flame netherite sword",
+  "item.lightandshadows.flame_netherite_hoe" : "Flame netherite hoe",
+
+  "item.lightandshadows.lux.tooltip" : "You feel the heat of the Azanur flame",
+
+  "tooltip.lightandshadows.minoan_sphere" : "Saves the owner from imminent death",
+  "tooltip.lightandshadows.minoan_sphere_with_coordinates" : "Bound location: ",
+  "tooltip.lightandshadows.charge" : "§6Status: §4%1$s",
+  "item.lightandshadows.runic_sword" : "Runic sword",
+
+  "tooltip.lightandshadows.lightning_stick1" : "Summon lightning in the",
+  "tooltip.lightandshadows.lightning_stick2" : "direction of the player's gaze",
+
+  "tooltip.lightandshadows.flame_sword" : "Sets enemy on fire on impact",
+  "tooltip.lightandshadows.flame_axe" : "Smelts all mined blocks",
+
+  "block.lightandshadows.gravitation_ore" : "Gravitate ore",
+
+  "tooltip.lightandshadows.dimension.overworld" : "§6Dimension: §aOverworld",
+  "tooltip.lightandshadows.dimension.nether" : "§6Dimension: §cNether",
+  "tooltip.lightandshadows.dimension.end" : "§6Dimension: §dEnd",
+
+  "tooltip.lightandshadows.catalyst.diamond" : "Catalyst: §3Diamond",
+  "tooltip.lightandshadows.catalyst.nether_star" : "Catalyst: §5Nether star",
+
+  "advancement.lightandshadows.sweethopper" : "Sweethopper",
+  "advancement.lightandshadows.sweethopper.description" : "Eat an honney apple",
+
+  "tooltip.lightandshadows.status.uncharged" : "§6Status: §4Uncharged",
+  "tooltip.lightandshadows.status.charged" : "§6Status: §2Charged",
+
+  "tooltip.lightandshadows.souls": "§7Souls saved: §r%1$s/128",
+  "tooltip.lightandshadows.zero_souls": "Souls aren't preserved",
+
+  "tooltip.lightandshadows.none_server_work" : "§4Doesn't work on the server",
+  "tooltip.lightandshadows.dimension" : "§6Dimension: §r%1$s",
+  "tooltip.lightandshadows.hold_shift" : "Hold §6Shift§r to details",
+  "tooltip.lightandshadows.void" : ""
+
+}

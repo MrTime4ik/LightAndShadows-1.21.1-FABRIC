@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/handheld",
+  "textures" : {
+    "layer0" : "lightandshadows:item/runic_sword"
+  }
+}

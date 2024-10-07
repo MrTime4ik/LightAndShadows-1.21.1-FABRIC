@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0" : "lightandshadows:item/lightning_stick"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-32, -90, 0],
+			"translation": [0.25, 4, 3.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-32, 90, 0],
+			"translation": [0.25, 3.25, 3.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 10.6, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

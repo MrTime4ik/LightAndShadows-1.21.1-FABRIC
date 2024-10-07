@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "HAH",
+    "HHH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:honey_block"
+    },
+    "A": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "result": {
+    "item": "lightandshadows:honey_apple",
+    "count": 1
+  }
+}

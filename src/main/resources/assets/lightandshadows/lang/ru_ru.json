@@ -1,0 +1,49 @@
+{
+
+  "item.lightandshadows.astral_ingot" : "Астральный слиток [WIP]",
+  "item.lightandshadows.lightning_stick" : "Палочка молнии",
+  "item.lightandshadows.lux" : "Свет [WIP]",
+  "item.lightandshadows.minoan_sphere" : "Минойская сфера [WIP]",
+  "item.lightandshadows.honey_apple" : "Мёдовое яблоко",
+  "item.lightandshadows.flame_netherite_shovel" : "Пыламеннонезеритовая кирка",
+  "item.lightandshadows.flame_netherite_pickaxe" : "Пыламеннонезеритовая лопата",
+  "item.lightandshadows.flame_netherite_axe" : "Пыламеннонезеритовый топор",
+  "item.lightandshadows.flame_netherite_sword" : "Пыламеннонезеритовый меч",
+  "item.lightandshadows.flame_netherite_hoe" : "Пыламеннонезеритовая мотыга",
+
+  "item.lightandshadows.lux.tooltip" : "Вы чувствуете жар пламени Азанура",
+
+  "tooltip.lightandshadows.minoan_sphere" : "Спасает владельца от неменуемой гибели",
+  "tooltip.lightandshadows.minoan_sphere_with_coordinates" : "Сохранённая локация: ",
+  "item.lightandshadows.runic_sword" : "Рунный меч",
+
+  "tooltip.lightandshadows.lightning_stick1" : "Призывает молнию в",
+  "tooltip.lightandshadows.lightning_stick2" : "направлении взгляда игрока",
+
+  "tooltip.lightandshadows.flame_sword" : "Поджигает противника при ударе",
+  "tooltip.lightandshadows.flame_axe" : "Переплавляет все добытые блоки",
+
+  "block.lightandshadows.gravitation_ore" : "Гравититовая руда",
+
+  "tooltip.lightandshadows.dimension.overworld" : "§6Измерение:§a Верхний мир",
+  "tooltip.lightandshadows.dimension.nether" : "§6Зимерение:§c Ад",
+  "tooltip.lightandshadows.dimension.end" : "§6Измерение:§d Энд",
+
+  "tooltip.lightandshadows.catalyst.diamond" : "Катализатор: §3Алмаз",
+  "tooltip.lightandshadows.catalyst.nether_star" : "Катализатор: §5Звезда незера",
+
+  "advancement.lightandshadows.sweethopper" : "Сладкоежка",
+  "advancement.lightandshadows.sweethopper.description" : "Съешьте мёдовое яблоко",
+
+  "tooltip.lightandshadows.status.uncharged" : "§6Статус: §4Разряжена",
+  "tooltip.lightandshadows.status.charged" : "§6Статус: §2Заряжена",
+
+  "tooltip.lightandshadows.souls": "Душ сохранено:§6 %1$s/128",
+  "tooltip.lightandshadows.zero_souls": "Душ нет",
+
+  "tooltip.lightandshadows.none_server_work" : "§4Не работает на сервере",
+  "tooltip.lightandshadows.dimension" : "§Измерение: §r%1$s",
+  "tooltip.lightandshadows.hold_shift" : "Удерживайте §6Shift§r для деталей",
+  "tooltip.lightandshadows.void" : ""
+
+}

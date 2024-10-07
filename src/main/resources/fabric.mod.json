@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "lightandshadows",
+	"version": "${version}",
+	"name": "Light&Shadows",
+	"description": "First mod that was created by FrameWorkTeam",
+	"authors": [
+		"FrameWorkTeam",
+		"MrTim4ik"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/lightandshadows/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "ru.frameworkteam.lightandshadows.LightAndShadows"
+		],
+		"fabric-datagen": [
+			"ru.frameworkteam.lightandshadows.LightAndShadowsDataGenerator"
+		],
+		"client": [
+			"ru.frameworkteam.lightandshadows.LightAndShadowsClient"
+		]
+	},
+	"mixins": [
+		"lightandshadows.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
