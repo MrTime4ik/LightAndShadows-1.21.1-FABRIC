@@ -6,5 +6,6 @@ public class LightAndShadowsClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
 
+//        ModMessages.registerS2CPackets();
     }
 }

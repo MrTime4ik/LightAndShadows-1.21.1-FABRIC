@@ -22,7 +22,7 @@ public class ModItems {
 //    public static final LightningStick LIGHTNING_STICK = new LightningStick(new FabricItemSettings().maxDamage(LightningStick.MAX_DURABILITY).rarity(Rarity.RARE));
 //    public static final HoneyApple HONEY_APPLE = new HoneyApple(new FabricItemSettings().rarity(Rarity.EPIC).food(ModFood.HONEY));
 //
-    public static final Item MINOAN_SPHERE = registerItem("minoan_sphere", new MinoanSphereTEST(
+    public static final Item MINOAN_SPHERE = registerItem("minoan_sphere", new MinoanSphere(
             new Item.Settings()
                     .maxCount(1)
                     .rarity(Rarity.EPIC)

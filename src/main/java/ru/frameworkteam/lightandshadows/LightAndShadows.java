@@ -16,6 +16,9 @@ public class LightAndShadows implements ModInitializer {
 
 		ModComponents.register();
 		ModItems.register();
+		ModEvents.AllowDeath();
+//		ModMessages.registerC2SPackets();
+//		ModEvents.ClientTickStart();
 		LOGGER.info("Hello Fabric world!");
 	}
 }

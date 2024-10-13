@@ -23,7 +23,7 @@ public class ModComponents {
 
 
     protected static void register() {
-        LightAndShadows.LOGGER.info("Registering {} components", LightAndShadows.MOD_ID);
+        LightAndShadows.LOGGER.info("Registering {} components ", LightAndShadows.MOD_ID);
         // Technically this method can stay empty, but some developers like to notify
         // the console, that certain parts of the mod have been successfully initialized
 
